@@ -4,10 +4,10 @@
 </head>
 <body bg color="yellow">
 <h1> Deepak Patil </h1>
-
+<<<<<<< HEAD
 <h2> Business Analyst - Automobile Domain </h2>
-
-
-
+=======
+<h2> Business Analyst - Automobile Domain</h2>
+>>>>>>> hotfix
 </body>
 </html>
